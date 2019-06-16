@@ -1,0 +1,6 @@
+cd /home/yobi/Documents/Bioinformatics/Project/Code/LH_combo/LH_Combined_Chothia/
+
+cd /home/yobi/Documents/Bioinformatics/Project/Code/LH_combo/LH_Combined_Chothia/
+
+cp -v 1igt.pdb /tmp
+
