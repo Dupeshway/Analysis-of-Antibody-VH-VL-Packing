@@ -1,0 +1,12 @@
+4M6M_1.pdb
+4M6N_1.pdb
+4M5Y_1.pdb
+4M5Z_1.pdb
+4NUG_1.pdb
+5FUU_1.pdb
+6DCQ_1.pdb
+6MAR_1.pdb
+5WTG_1.pdb
+5WK2_1.pdb
+5WK3_1.pdb
+5WTH_1.pdb
