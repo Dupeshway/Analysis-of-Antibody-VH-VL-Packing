@@ -5,11 +5,24 @@
 class config:
 
     '''To store all variables to be called across modules'''
-    
-    redund_file='sort_redund_pdbs.txt'
-    LH_combi_folder= '/home/yobi/Documents/Bioinformatics/Project/LH combined CHothia/LH_Combined_Chothia/'
-    w_file='script_redund_pdbs.txt'
+
+    """PATHS"""
+    path='/home/yobi/AbPackingAngle_V2.1/code'
+    path_2flexpdbs='/home/yobi/AbPackingAngle_V2.1/code/flex_pdbs/'
+    path_2flexcode='/home/yobi/AbPackingAngle_V2.1/code/flex_code/'
+    path_2hydrocode='/home/yobi/AbPackingAngle_V2.1/code/hydo_phobes'
+    martinpdb_path='/home/yobi/AbPackingAngle_V2.1/LH_Combined_Martin/'
+
+
+    """PDB LISTS"""
+    allpdbs='all_pdbs.txt'
+
+    complex_list='list_complex.txt'
+    free_list='list_free.txt'
+
+    """BASH scripts"""
+    bash4_pangle='bash4_pangle.txt'
+    free_pangle= 'bashfree_pangle.txt'
+    complex_pangle= 'bashcomplex_pangle.txt'
     b_script='bashfile.txt'
-    complx_file='free_vscomplex.txt'
-    csv_file='free_comp.csv'
     
